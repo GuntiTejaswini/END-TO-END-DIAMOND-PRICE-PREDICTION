@@ -22,13 +22,8 @@ list_of_files = [
     f"src/{package}/pipeline/Training_pipeline.py",
     "static/styles.css",
     "templates/home.html",
-    ".gitignore",
     "app.py",
-    "Dockerfile",
     "README.md",
-    ".dvcignore",
-    "dvc.lock",
-    "dvc.yaml",
     "requirements.txt",
     "setup.py"]
 
